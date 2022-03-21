@@ -47,9 +47,7 @@ print("Puntos suma:")
 print(punto2D.sumapuntos(1+5, 3+2, 4+0, 6+1))``
 ```
 ***
-***
 
-***
 
 
 ## Ejercicio 2:
