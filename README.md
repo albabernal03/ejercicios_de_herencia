@@ -21,6 +21,7 @@ En esta tarea hemos resuelto una serie de ejercicios, en los cuales se utiliza l
 
 ## Ejercicio 1:
 
+**código:**
 ```
 
 class punto2D:
@@ -73,6 +74,11 @@ print("Puntos suma:")
 print(punto3D.sumapuntos(1+5, 3+2, 4+0))
 
 ```
+
+
+**UML:**
+
+
 ***
 
 
