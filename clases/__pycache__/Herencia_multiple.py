@@ -16,3 +16,8 @@ pared_norte = paredes('NORTE') #lo ponemos en mayúscula porque es una variable 
 pared_sur = paredes('SUR')
 pared_este = paredes('ESTE')
 pared_oeste = paredes('OESTE')
+
+ventana_norte = ventana(pared_norte)
+ventana_sur = ventana(pared_sur)
+ventana_este = ventana(pared_este)
+ventana_oeste = ventana(pared_oeste)
