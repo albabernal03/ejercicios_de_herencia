@@ -154,6 +154,7 @@ derivada.C()
 
 ## Ejercicio 3:
 
+**código:**
 ```
 class A():
     def __init__(self, a):
@@ -178,6 +179,8 @@ class D(B, C):
 d = D(1, 2, 3)
 print(d.a, d.b, d.c)
 ```
+
+**UML:**
 
 ***
 
