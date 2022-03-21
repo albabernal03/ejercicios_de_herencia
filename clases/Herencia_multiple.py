@@ -20,9 +20,17 @@ class casa:
         superficie += ventana.superficie
       return superficie
 
+
+
+
+
+class paredcortina(paredes, ventana):
+  def __init__(self, orientacion, superficie):
+    paredes.__init__(self,orientacion)
+    ventana.__init__(self, self, superficie)
+
+
   
-
-
 pared_norte = paredes('NORTE') #lo ponemos en mayúscula porque es una variable constante
 pared_sur = paredes('SUR')
 pared_este = paredes('ESTE')
@@ -35,9 +43,3 @@ ventana_oeste = ventana(pared_oeste)
 
 casa= casa([pared_norte, pared_sur, pared_este, pared_oeste])
 print(casa.superficie_acristalada)
-
-class paredcortina(paredes, ventana):
-  def __init__(self, orientacion, superficie):
-    paredes.__init__(self,orientacion)
-    ventana.__init__(self, self, superficie)
-  
