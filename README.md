@@ -79,8 +79,9 @@ print(punto3D.sumapuntos(1+5, 3+2, 4+0))
 **UML:**
 
 
-***
 
+![puntos2d3d](https://user-images.githubusercontent.com/91721590/159316509-a8891ea7-ba0c-4465-ac5b-099d102d8548.png)
+***
 
 
 ## Ejercicio 2:<a name="id2"></a>
@@ -181,6 +182,10 @@ print(d.a, d.b, d.c)
 ```
 
 **UML:**
+
+![diamanteuml](https://user-images.githubusercontent.com/91721590/159316949-1d00e71e-4b65-429f-b540-1d9f109401c8.png)
+
+
 
 ***
 
