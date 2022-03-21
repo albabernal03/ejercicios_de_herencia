@@ -9,7 +9,8 @@ class ventana:
     self.superficie= superficie
     self.pared.ventanas.append(self)
     
-    
+class casa:
+  def __init__(self)
 
 
 pared_norte = paredes('NORTE') #lo ponemos en mayúscula porque es una variable constante
