@@ -21,7 +21,7 @@ En esta tarea hemos resuelto una serie de ejercicios, en los cuales se utiliza l
 
 ## Ejercicio 1:
 
-`
+```
 
 class punto2D:
   def __init__(self,a1,a2,b1,b2):
