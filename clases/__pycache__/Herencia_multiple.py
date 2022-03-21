@@ -3,6 +3,8 @@ class paredes:
     self.orientacion= orientacion 
     self.ventana=[]
 
+class ventana:
+  def __init__(self,)
 
 
 pared_norte = paredes('NORTE') #lo ponemos en mayúscula porque es una variable constante
