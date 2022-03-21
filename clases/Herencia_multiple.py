@@ -12,6 +12,13 @@ class ventana:
 class casa:
   def __init__(self,pared):
     self.pared=pared
+    
+  def superficie_acristalada(self):
+    superficie = 0
+    for pared in self.pared:
+      for ventana in pared.ventanas:
+        superficie += ventana.superficie
+      return superficie
 
   
 
@@ -25,3 +32,5 @@ ventana_norte = ventana(pared_norte)
 ventana_sur = ventana(pared_sur)
 ventana_este = ventana(pared_este)
 ventana_oeste = ventana(pared_oeste)
+
+casa= casa(pared_nort)
