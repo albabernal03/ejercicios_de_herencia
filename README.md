@@ -19,3 +19,25 @@ En esta tarea hemos resuelto una serie de ejercicios, en los cuales se utiliza l
 
 ***
 
+## Ejercicio 1:
+
+
+***
+
+
+## Ejercicio 2:
+
+
+***
+
+
+## Ejercicio 3:
+
+
+***
+
+
+## Ejercicio 4:
+
+
+***
