@@ -35,3 +35,7 @@ ventana_oeste = ventana(pared_oeste)
 
 casa= casa([pared_norte, pared_sur, pared_este, pared_oeste])
 print(casa.superficie_acristalada)
+
+class paredcortina(paredes, ventana):
+  def __init__(self, orientacion, superficie):
+  
