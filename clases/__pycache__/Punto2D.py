@@ -16,3 +16,9 @@ class Punto2D:
     print("A = X: {}".format(a1), " ; Y: {}".format(a2))
     print("B= X: {}".format(b1), " ; Y: {}".format(b2))
   
+print("Puntos iniciales:") 
+print(Punto2D.punto2d(1,2,4,6))
+print("Puntos translacion:")
+print(Punto2D.punto2dtranslacion(5,3,0,1))
+print("Puntos suma:")
+print(Punto2D.sumapuntos(1+5, 3+2, 4+0, 6+1))
