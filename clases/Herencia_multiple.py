@@ -38,4 +38,6 @@ print(casa.superficie_acristalada)
 
 class paredcortina(paredes, ventana):
   def __init__(self, orientacion, superficie):
+    paredes.__init__(self,orientacion)
+    ventana.__init__(self, self, superficie)
   
