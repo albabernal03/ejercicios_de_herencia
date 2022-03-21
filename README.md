@@ -148,6 +148,7 @@ print(casa.superficie_cristal())
 
 ```
 **UML:**
+
 <img width="599" alt="casa" src="https://user-images.githubusercontent.com/91721875/159310510-6c2d66db-8306-42e5-abbf-5d54cdc78f19.png">
 
 
