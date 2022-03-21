@@ -4,7 +4,8 @@ class paredes:
     self.ventana=[]
 
 class ventana:
-  def __init__(self,)
+  def __init__(self,pared,superficie):
+    
 
 
 pared_norte = paredes('NORTE') #lo ponemos en mayúscula porque es una variable constante
