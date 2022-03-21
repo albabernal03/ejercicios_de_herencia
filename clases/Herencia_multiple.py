@@ -13,6 +13,8 @@ class casa:
   def __init__(self,pared):
     self.pared=pared
 
+  
+
 
 pared_norte = paredes('NORTE') #lo ponemos en mayúscula porque es una variable constante
 pared_sur = paredes('SUR')
