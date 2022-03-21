@@ -21,9 +21,6 @@ class casa:
       return superficie
 
 
-
-
-
 class paredcortina(paredes, ventana):
   def __init__(self, orientacion, superficie):
     paredes.__init__(self,orientacion)
@@ -43,3 +40,7 @@ ventana_oeste = ventana(pared_oeste)
 
 casa= casa([pared_norte, pared_sur, pared_este, pared_oeste])
 print(casa.superficie_acristalada)
+
+pared_cortina= paredcortina('SUR')
+casa.pared[2]= pared_cortina
+print(casa.superficie_cristal())
