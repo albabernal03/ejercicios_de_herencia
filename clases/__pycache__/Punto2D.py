@@ -4,6 +4,7 @@ class Punto2D:
   print("A = {}".format(a)) 
   print("B = {}".format(b)) 
 print(Punto2D)
+
     
     
   
