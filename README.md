@@ -12,14 +12,14 @@ En esta tarea hemos resuelto una serie de ejercicios, en los cuales se utiliza l
 ***
 ## Indice
 
-1. 44
-2. e
-3. e
-4. e
+1. [Ejercicio 1]
+2. [Ejercicio 2]
+3. [Ejercico 3]
+4. [Ejercicio 4]
 
 ***
 
-## Ejercicio 1:
+## Ejercicio 1:<a name="id1"></a>
 
 **código:**
 ```
@@ -83,7 +83,7 @@ print(punto3D.sumapuntos(1+5, 3+2, 4+0))
 
 
 
-## Ejercicio 2:
+## Ejercicio 2:<a name="id2"></a>
 
 **código:**
 ```
@@ -152,7 +152,7 @@ derivada.C()
 ***
 
 
-## Ejercicio 3:
+## Ejercicio 3:<a name="id3"></a>
 
 **código:**
 ```
@@ -185,7 +185,7 @@ print(d.a, d.b, d.c)
 ***
 
 
-## Ejercicio 4:
+## Ejercicio 4:<a name="id4"></a>
 
 **código:**
 ```
