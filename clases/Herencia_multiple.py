@@ -33,4 +33,5 @@ ventana_sur = ventana(pared_sur)
 ventana_este = ventana(pared_este)
 ventana_oeste = ventana(pared_oeste)
 
-casa= casa(pared_nort)
+casa= casa([pared_norte, pared_sur, pared_este, pared_oeste])
+print(casa.superficie_acristalada)
