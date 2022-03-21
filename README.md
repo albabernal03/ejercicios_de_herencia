@@ -27,6 +27,7 @@ En esta tarea hemos resuelto una serie de ejercicios, en los cuales se utiliza l
 
 ## Ejercicio 2:
 
+**código:**
 ```
 class Base: 
  
