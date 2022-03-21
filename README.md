@@ -11,10 +11,11 @@ En esta tarea hemos resuelto una serie de ejercicios, en los cuales se utiliza l
 
 ***
 ## Indice
-1.[Ejercicio 1](#id1)
-2.[Ejercicio 2](#id2)
-3.[Ejercicio 3](#id3)
-4.[Ejercicio 4](#id4)
+
+1. 44
+2. e
+3. e
+4. e
 
 ***
 
